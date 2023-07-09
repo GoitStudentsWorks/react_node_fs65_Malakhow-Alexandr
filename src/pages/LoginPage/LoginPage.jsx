@@ -11,7 +11,7 @@ import { IoMdArrowRoundBack } from 'react-icons/io';
 import goose_img from '../../images/register_loginPage/goose_login.png';
 import goose_img2x from '../../images/register_loginPage/goose_login@2x.png';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { LoginWithGoogleBtn } from 'components/LoginWithGoogleBtn/LoginWithGoogleBtn';
+// import { LoginWithGoogleBtn } from 'components/LoginWithGoogleBtn/LoginWithGoogleBtn';
 import { useTranslation } from 'react-i18next';
 
 const LoginPage = () => {
