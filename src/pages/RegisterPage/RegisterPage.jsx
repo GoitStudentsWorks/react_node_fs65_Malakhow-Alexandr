@@ -42,7 +42,7 @@ const RegisterPage = () => {
         <RegisterForm />
       </FormWrapper>
       <AuthNavigate link="/login" text={t('Log In')} />
-      <LoginWithGoogleBtn />
+{/*       <LoginWithGoogleBtn /> */}
     </FormContainer>
   );
 };
